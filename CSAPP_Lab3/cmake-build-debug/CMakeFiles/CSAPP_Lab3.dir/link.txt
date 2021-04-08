@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CSAPP_Lab3.dir/main.c.o  -o CSAPP_Lab3 
