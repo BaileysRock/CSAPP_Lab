@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/CSAPP_Lab_1_1.dir/main.c.o  -o CSAPP_Lab_1_1 
