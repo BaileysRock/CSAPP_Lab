@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/isLittleEndian.dir/Lab1.4_isLittleEndian/isLittleEndian.c.o  -o isLittleEndian 

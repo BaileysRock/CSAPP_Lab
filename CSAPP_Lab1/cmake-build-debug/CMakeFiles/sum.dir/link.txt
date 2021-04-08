@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/sum.dir/Lab1.6_sum/sum.c.o  -o sum 

@@ -1,0 +1,9 @@
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/cpuWordSize.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/isLittleEndian.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/datatype.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/showbyte.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/float.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/sum.dir
+/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/CMakeFiles/hello.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/cpuWordSize.dir/Lab1.5_cpuWordSize/cpuWordSize.c.o  -o cpuWordSize 

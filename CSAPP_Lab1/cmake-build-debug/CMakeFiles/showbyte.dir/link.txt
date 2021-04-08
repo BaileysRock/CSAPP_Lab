@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/showbyte.dir/Lab1.2_showbyte/showbyte.c.o  -o showbyte 

@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSAPP_Lab1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpuWordSize">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/cpuWordSize" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpuWordSize"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cpuWordSize/fast">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/cpuWordSize" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 cpuWordSize/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="isLittleEndian">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/isLittleEndian" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 isLittleEndian"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="isLittleEndian/fast">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/isLittleEndian" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 isLittleEndian/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="datatype">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/datatype" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 datatype"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="datatype/fast">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/datatype" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 datatype/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showbyte">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/showbyte" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 showbyte"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="showbyte/fast">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/showbyte" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 showbyte/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="float">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/float" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 float"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="float/fast">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/float" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 float/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sum">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 sum"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sum/fast">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/sum" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 sum/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="hello/fast">
+				<Option output="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/hello" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 hello/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/d/Code/CLionProjects/CSAPP_Lab1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/Lab1.1_hellowin/hellowin.c">
+			<Option target="hello"/>
+		</Unit>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/Lab1.2_showbyte/showbyte.c">
+			<Option target="showbyte"/>
+		</Unit>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/Lab1.3_datatype/datatype.c">
+			<Option target="datatype"/>
+		</Unit>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/Lab1.4_isLittleEndian/isLittleEndian.c">
+			<Option target="isLittleEndian"/>
+		</Unit>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/Lab1.5_cpuWordSize/cpuWordSize.c">
+			<Option target="cpuWordSize"/>
+		</Unit>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/Lab1.6_sum/sum.c">
+			<Option target="sum"/>
+		</Unit>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/Lab1.7_float/float.c">
+			<Option target="float"/>
+		</Unit>
+		<Unit filename="/mnt/d/Code/CLionProjects/CSAPP_Lab1/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

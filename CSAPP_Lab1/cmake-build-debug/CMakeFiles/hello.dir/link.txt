@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/hello.dir/Lab1.1_hellowin/hellowin.c.o  -o hello 
