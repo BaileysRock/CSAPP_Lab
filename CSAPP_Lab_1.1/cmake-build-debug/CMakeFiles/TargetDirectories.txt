@@ -1,3 +1,0 @@
-/tmp/tmp.jpmWh3fQxw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/tmp/tmp.jpmWh3fQxw/cmake-build-debug/CMakeFiles/edit_cache.dir
-/tmp/tmp.jpmWh3fQxw/cmake-build-debug/CMakeFiles/CSAPP_Lab_1_1.dir
